@@ -1,1 +1,48 @@
-PROCESO DE DESARROLLO DE SOFTSHOP
+PROCESO DE DESARROLLO DE SOFTWARE DE SOFTSHOP
+
+1 - El Gerente de Proyectos autoriza al Líder de Proyecto el relevamiento inicial del proyecto.
+
+2 - El Líder de Proyectos solicita al Analista Inicial la realización del relevamiento inicial.
+
+3 - El Analista Inicial genera la lista de requerimientos.
+
+4 - El Analista Inicial genera la lista de casos de uso.
+
+5 - El Líder de Proyecto alimenta la herramienta de estimación con la lista de casos de uso y realiza juegos de estimación.
+
+6 - El Líder de Proyecto presenta al Gerente de Proyectos los juegos de estimación del Proyecto.
+
+7 - El Gerente de Proyectos y el Líder de Proyecto seleccionan la estimación correspondiente, definen los miembros del proyecto, y la fecha incial del proyecto.
+
+8 - El Gerente de Proyectos comunica al Gestor de Configuración vía mail:
+8.1 - El nombre del Proyecto.
+8.2 - El cliente del Proyecto.
+8.3 - La lista de miembros del proyecto con sus respectivos roles.
+8.4 - La fecha de inicio y final del proyecto.
+
+----+++++++++++ A PARTIR DE AQUÍ ENTRA REDMINE +++++++++++++++++++
+
+9 - El Gestor de Configuración realiza:
+9.1 - Creación del proyecto en redmine.
+9.1.1 - En la descripción del proyecto se especificará:
+9.1.1.1 - Fecha de Inicio y Fin del Proyecto.
+9.1.1.2 - Lista de Miembros con sus respectivos roles.
+9.1.1.4 - Url de la ubicación git para documentaciones.
+9.1.1.5 - Url de la ubicación git para código fuente.
+9.1.1.6 - Url del Servidor de Pruebas.
+9.1.1.7 - Host y nombre de la base de datos.
+9.2 - El Gestor de Configuración envial mail al Líder de Proyectos con copia al Gerente de Proyectos comunicando la creación del Proyecto en Redmine.
+
+10 - El Líder de Proyecto incorpora al proyecto en redmine todos los miembros especificados con sus respectivos roles.
+
+11 - El Líder de Proyecto crea y asigna todas las peticiones del proyecto en redmine.
+
+12 - El Líder de Proyecto comunica vía mail a todos los miembros, sobre el proyecto, la fecha de inicio del proyecto, y la disponibidad de tiempo en horas que cada miembro de dará diaramiente al proyecto.
+
+13 - Los miembros del Proyecto inician sus tareas registrando en redmine sus avances correspondientes.
+
+14 - Una vez terminado el proyecto, el Líder de Proyecto comunica al equipo y al Gerente de Proyectos vía mail la culminación del mismo.
+
+
+
+
